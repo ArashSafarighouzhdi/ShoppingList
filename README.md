@@ -2,8 +2,7 @@
 
 A modern, intuitive, and mobile-friendly web application designed to eliminate the frustrations of traditional shopping lists. No more messy paper lists or constantly editing messages on WhatsApp/Telegram while walking through store aisles.
 
-🔗 \*\*Live Demo: https://shopping-list-nu-sage.vercel.app/
-
+🔗 \*\*Live Demo: https://shopping-list-xi-umber.vercel.app/
 ---
 
 ## 💡 Why I Built This App
